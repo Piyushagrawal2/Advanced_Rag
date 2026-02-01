@@ -3,6 +3,7 @@
 langchain
 langchain-core
 langchain-openai
+langchain-google-genai
 langchain-community
 langchain-text-splitters
 langchain-cohere
@@ -10,6 +11,7 @@ langchain-aws
 
 # OpenAI SDK - Latest version
 openai
+google-generativeai
 
 # Vector stores and embeddings
 faiss-cpu
